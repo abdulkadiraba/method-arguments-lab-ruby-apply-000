@@ -41,8 +41,9 @@ Looks like our test is expecting to test a method called `#introduction`. Let's 
 # lib/introduction.rb
 
 def introduction
-end
+end 
 ```
+
 
 Now we'll run our test suite again. You should see the following error:
 
